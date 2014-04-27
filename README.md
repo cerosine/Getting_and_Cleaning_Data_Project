@@ -5,7 +5,7 @@ This repository has been created for submitting the Peer Assessment Project for 
 
 The submitted R script "run_analysis.R" provides a complete solution to the task given in the peer assessment project. It runs approximately 2 minutes on a MacBook Air and saves the tidy dataset to the working directory. It does not uses any additional libraries. The script breaks down the task in the following steps:
 
-1. set working directory: 
+###1. set working directory: 
 
 2. download and unzip the raw data
 
